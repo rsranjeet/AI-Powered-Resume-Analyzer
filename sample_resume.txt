@@ -1,2 +1,0 @@
-I am a software developer with experience in Python, Flask, React, and SQL.
-I have worked on machine learning and NLP projects. Familiar with Git and Docker.
