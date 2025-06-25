@@ -1,1 +1,4 @@
+spacystreamlit
+python-docx
+PyPDF2
 spacy
